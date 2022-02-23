@@ -1,0 +1,89 @@
+/* 
+** The Header Media Queries **
+** Tweak as per your needs **
+*/
+#logocenter
+{
+  display: flex;
+  justify-content: center;
+}
+
+#headbox
+{
+  height: 70px;
+  width: 1015px;
+  padding: 20px;
+  margin: 0px 167px;
+  display: flex;
+  flex-direction: row;
+   justify-content: space-between; 
+}
+ #ula
+ { 
+   height: 69px;
+   width: 251px;
+  display: flex;
+  margin: 20px 20px;
+  justify-content: space-between;
+ } 
+
+h1{
+    color: aqua;
+    text-align: center;
+}  
+#paragraph
+{   margin-right: 120px;
+    margin-left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text
+{
+    margin-left: 7%;
+    
+}
+p
+{
+    
+    text-align: justify;
+}
+#boxp
+{
+    display: flex;
+height: 400px;
+width: auto;
+flex-direction: row;
+justify-content: center;}
+.boxch
+{
+  height: 345px;
+  width: 205.969px;
+  
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    background-color: aqua;
+    flex-direction: column;
+    
+}
+#country
+{
+    border: 0px solid aqua ;
+    background-color: transparent;
+    
+}
+img
+{
+    margin: 15px;
+}
+#country
+{
+  font-family: roboto, Arial, Helvetica, sans-serif;
+  font-size: 19.2px;
+  line-height: 24.96px;
+  text-decoration: underline solid rgb(255, 255, 255);
+ white-space: pre;
+ word-spacing: 0px;
+cursor: pointer;
+}
